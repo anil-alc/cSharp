@@ -1,0 +1,8 @@
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\bin\Debug\TypesAndVaribles.exe.config
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\bin\Debug\TypesAndVaribles.exe
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\bin\Debug\TypesAndVaribles.pdb
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\obj\Debug\TypesAndVaribles.csproj.AssemblyReference.cache
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\obj\Debug\TypesAndVaribles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\obj\Debug\TypesAndVaribles.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\obj\Debug\TypesAndVaribles.exe
+C:\Users\Anıl Alkan\Desktop\REA\Youtube\TypesAndVaribles\TypesAndVaribles\obj\Debug\TypesAndVaribles.pdb
